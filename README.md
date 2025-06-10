@@ -29,8 +29,6 @@ A Python GUI app for **New Zealand personal finance tasks** — built for studen
 
 ## 📸 Screenshots
 
-> _Add these after first run, or request placeholder mockups from ChatGPT._
-
 ![image](https://github.com/user-attachments/assets/49b9dfad-d90e-44f7-9933-903729859bfd)
 
 
