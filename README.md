@@ -89,7 +89,7 @@ python setup.py py2app
 
 Made by **Irvin Buquiran**  
 MIT Business School, Accounting + Python Portfolio 2025  
-Feel free to connect via [LinkedIn](https://www.linkedin.com/) or GitHub.
+Feel free to connect via [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/irvin-buquiran-318940364/)) or GitHub.
 
 ---
 
